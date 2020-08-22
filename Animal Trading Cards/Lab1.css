@@ -1,0 +1,32 @@
+body{
+  padding: 20px;
+}
+
+#container{
+  border : 1px solid black;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 5px 5px #cccccc;
+  
+}
+tittle{
+  font-weight:bold;
+}
+img {
+  width: 300px;
+}
+.animal-info {
+  font-style: italic ;
+  border : 1px solid grey;
+  padding: 10px;
+  margin: 0px;
+}
+
+li {
+  list-style: none;
+  padding : 0px;
+}
+
+span {
+  font-weight:bold;
+}
