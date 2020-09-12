@@ -1,4 +1,4 @@
-# Ubacity-Learnng-FrontEnd
+#Udacity-Learning-FrontEnd
 ## This repository for purposes learning.
 ### lab1 animal Trading Cards
 
