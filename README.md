@@ -1,4 +1,4 @@
-# Learning-CSS3
+# Ubacity-Learnng-FrontEnd
 ## This repository for purposes learning.
 ### lab1 animal Trading Cards
 
