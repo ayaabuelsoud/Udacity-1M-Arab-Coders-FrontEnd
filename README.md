@@ -1,8 +1,6 @@
 # Udacity-Learning-FrontEnd
-## This repository for purposes learning.
 
-From Front-End Development Track at Uducity
+This repository contains the two projects of the Front-End Development Track of The 1M Arab Coders on Udacity
 
-### lab1 animal Trading Cards
-
-### lab2 Pixel Art Maker
+* lab1 animal Trading Cards
+* lab2 Pixel Art Maker
